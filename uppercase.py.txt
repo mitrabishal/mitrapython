@@ -1,0 +1,3 @@
+s="hello world"
+l=s.upper()
+print(l)
